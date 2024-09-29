@@ -1,2 +1,2 @@
-Repository link: https://github.com/OWASP/CheatSheetSeries.git
-Repository link: https://github.com/swisskyrepo/PayloadsAllTheThings.git
+Cheatsheet Source: https://github.com/OWASP/CheatSheetSeries.git
+Cheatsheet Source: https://github.com/swisskyrepo/PayloadsAllTheThings.git
